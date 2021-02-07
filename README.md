@@ -12,4 +12,4 @@ Finance:
 * markov model with eigen portfolios and absorption ratio
 * Fitted Q-iteration with MC/BS simulation, solves MDP of Bellman optimality equation, value put/calls
 
-These are meant to provide baseline for further implementation of methods, **don't** implement in live trading
+These are meant to provide baseline for discovery of each method, **don't** implement in live trading
